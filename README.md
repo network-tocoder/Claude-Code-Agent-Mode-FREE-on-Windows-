@@ -1,4 +1,4 @@
-# 🤖 Claude Code Agent Mode — Find & Fix Bugs FREE on Windows
+# 🤖 Claude Code Agent Mode — Find & Fix Bugs for FREE (Local Model)
 
 > **Run Claude Code in Full Agent Mode Using LM Studio — No API Key, No Cloud, Zero Cost**
 >
